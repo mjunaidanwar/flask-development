@@ -10,7 +10,6 @@ MarkupSafe==0.23
 pefile==2016.3.28
 py2exe==0.9.2.2
 PyInstaller==3.2
-pywin32==220
 requests==2.13.0
 UNKNOWN==0.0.0
 virtualenv==15.1.0
